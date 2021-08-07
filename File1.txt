@@ -1,2 +1,2 @@
 Demo for July
-Second Line for Second Commit
+Second Line for Commit
